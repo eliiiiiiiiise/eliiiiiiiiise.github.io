@@ -1,4 +1,4 @@
-I am currently looking for a first opportunity as a data analyst / data scientist. This portfolio contains example of projects I have worked on. Through these projects, I have developed practical experience in exploratory data analysis, data preparation, machine learning and deep learning using Python and R.
+I am looking for a first opportunity as a data analyst / data scientist. This portfolio contains example of projects I have worked on. Through these projects, I have developed practical experience in exploratory data analysis, data preparation, machine learning and deep learning using Python and R.
 
 I'm eager to apply my skills to real-world problems, uncover meaningful insights from data, and continue learning along the way.
 
