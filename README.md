@@ -27,6 +27,7 @@ I built a machine learning model predicting the popularity of a song (on a scale
 - **Model evaluation**: the model achieved a R-squared of 0.213 on the test dataset, meaning the model explained approximately 21.3% of the variation in track popularity scores on the evaluation dataset.
 - **Feature analysis**: Examined feature importance to understand which aspects of a track's sound contributed most to the model's predictions.
 
+[Github of the project](https://github.com/eliiiiiiiiise/song-pop-prediction)
 
 ## Gene expression prediction using neural network
 
