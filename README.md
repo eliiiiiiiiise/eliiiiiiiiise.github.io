@@ -14,6 +14,8 @@ I designed and developped a platform with publicly available documents on human 
 - **Natural language processing**: zero-shot classification for thematic categorisation and named-entity recognition for country extraction.
 - **Platform development**: interactive Streamlit platform, evaluating its useability using the System Useability Scale.
 
+[Github of the project](https://github.com/eliiiiiiiiise/masters-project-albinism) | [Dissertation](https://github.com/eliiiiiiiiise/masters-project-albinism/blob/main/Dissertation.pdf)
+
 ## Song popularity prediction
 
 **Tools**: R - tidyverse - tidymodels
