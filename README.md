@@ -14,7 +14,7 @@ I designed and developped a platform with publicly available documents on human 
 - **Natural language processing**: zero-shot classification for thematic categorisation and named-entity recognition for country extraction.
 - **Platform development**: interactive Streamlit platform, evaluating its useability using the System Useability Scale.
 
-[Github of the project](https://github.com/eliiiiiiiiise/masters-project-albinism) | [Dissertation](https://github.com/eliiiiiiiiise/masters-project-albinism/blob/main/Dissertation.pdf)
+[Github of the project](https://github.com/eliiiiiiiiise/masters-project-albinism) - [Dissertation](https://github.com/eliiiiiiiiise/masters-project-albinism/blob/main/Dissertation.pdf)
 
 ## Song popularity prediction
 
@@ -39,5 +39,6 @@ I built a neural network model to predict the gene expression of the lacZ gene, 
 - **Model building**: Iteratively refined the neural network architecture and experimented with regularisation techniques, batch normalisation, dropout different feature selection methods.
 - **Model evaluation**: the final model achieved a R-squared on the test dataset close to 0, highlighting the difficulty of predicting the lacZ gene expression using the limited available data.
 
+[Github of the project](https://github.com/eliiiiiiiiise/lacZ-gene-expression)
 
 
